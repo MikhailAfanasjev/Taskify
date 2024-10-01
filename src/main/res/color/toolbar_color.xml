@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <resources>
+        <color android:name="toolbar_color" tools:ignore="ExtraText">#FF6200EE</color> <!-- Цвет Toolbar -->
+        <color android:name="white">#FF6200EE</color> <!-- Цвет текста/иконок -->
+    </resources>
+</selector>
